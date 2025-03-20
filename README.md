@@ -1,6 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
 🎨 Design no Figma: https://www.figma.com/design/yTPA50bLeQdJOCrg5sAOqU/Pizzaria-Sujeito?node-id=0-1&p=f – Protótipo do layout e interface do projeto. 🚀🍕
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
